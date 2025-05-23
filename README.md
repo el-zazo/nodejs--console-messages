@@ -43,4 +43,3 @@ result:
 > 00002 |
 > 00003 | Message 2 [ 1, 2, 3, 4 ] Message Fin √
 ```
-# nodejs--console-messages
