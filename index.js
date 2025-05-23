@@ -103,10 +103,4 @@ class ConsoleMessages {
   }
 }
 
-const CM = new ConsoleMessages();
-CM.normal("Normal messgae");
-CM.succes("Succes messgae");
-CM.warning("Warning messgae");
-CM.error("Error messgae");
-
 module.exports = { ConsoleMessages };
