@@ -1,12 +1,12 @@
 {
-  "name": "@elzazo/js-console-messages",
-  "version": "1.0.1",
-  "description": "display messages in console with colors",
+  "name": "@elzazo/console-messages",
+  "version": "1.1.0",
+  "description": "Display formatted and colored messages in console with comprehensive error handling",
   "main": "index.js",
-  "author": "@elzazo",
+  "author": "elzazo",
   "license": "ISC",
   "dependencies": {
-    "@elzazo/main-js-utils": "^1.0.2",
+    "@elzazo/main-utils": "^1.0.2",
     "ansi-colors": "^4.1.3"
   }
 }
