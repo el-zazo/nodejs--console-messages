@@ -6,7 +6,7 @@
   "author": "elzazo",
   "license": "ISC",
   "dependencies": {
-    "@elzazo/main-utils": "^1.0.2",
+    "@elzazo/main-utils": "^1.1.0",
     "ansi-colors": "^4.1.3"
   }
 }
